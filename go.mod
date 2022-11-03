@@ -1,4 +1,4 @@
-module gorm.io/driver/sqlite
+module sqlitedriver
 
 go 1.14
 
