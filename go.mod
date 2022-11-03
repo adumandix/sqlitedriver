@@ -1,4 +1,4 @@
-module sqlitedriver
+module github.com/adumandix/sqlitedriver
 
 go 1.14
 
